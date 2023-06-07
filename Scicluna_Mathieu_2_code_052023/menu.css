@@ -145,16 +145,19 @@ main {
 .delay-1 {
     animation-delay: 0s;
     transform: scale(0);
+    animation-fill-mode: forwards;
 }
 
 .delay-2 {
     animation-delay: 0.5s;
     transform: scale(0);
+    animation-fill-mode: forwards;
 }
 
 .delay-3 {
     animation-delay: 1s;
     transform: scale(0);
+    animation-fill-mode: forwards;
 }
 
 /****/
